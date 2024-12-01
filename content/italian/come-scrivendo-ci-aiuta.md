@@ -4,4 +4,4 @@ draft = true
 title = 'Perché scrivere ci aiuta per migliorare le nostre idee?'
 +++
 
-Per leggere questo saggio, vai a [QUESTO ARTICOLO](https://open.substack.com/pub/kevinjonas/p/perche-scrivere-ci-aiuta-per-migliorare?r=386ho4&utm_campaign=post&utm_medium=web) in Substack.
+Per leggere questo saggio, vai a [QUESTO ARTICOLO](https://substack.com/@kevinjonas/note/p-151949373) in Substack.
